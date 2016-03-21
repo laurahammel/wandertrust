@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Wandertrust</string>
+	<string name="wandertrust">Wandertrust</string>
+
+	<!-- login -->
+	<string name="username">Username/Email</string>
+	<string name="password">Password</string>
+	<string name="login">Login</string>
+
+	<!-- welcome -->
+	<string name="welcome_to_wandertrust">Welcome To Wandertrust!</string>
+	<string name="build_profile">First, let\'s build your profile</string>
+	<string name="need_to_connect_facebook">You need to connect with Facebook</string>
+	<string name="facebook_connect">Facebook Connect</string>
+
+	<!-- edit profile -->
+	<string name="now_tell_us_where_youre_going">Now tell us where you\'re going...</string>
+	<string name="name">Name</string>
+	<string name="where_are_you_going">Where are you going?</string>
+	<string name="start_typing">Start typing...</string>
+	<string name="when_are_you_going">When are you going?</string>
+	<string name="im_already_here">I\'m already here!</string>
+	<string name="arrival_date">Arrival</string>
+	<string name="return_date">Return</string>
+	<string name="interests">Interests</string>
+	<string name="sightseeing">Sightseeing</string>
+	<string name="culture">Culture</string>
+	<string name="food">Food</string>
+	<string name="drinks">Drinks</string>
+	<string name="adventure">Adventure</string>
+	<string name="art">Art</string>
+	<string name="entertainment">Entertainment</string>
+	<string name="spiritual">Spiritual</string>
+	<string name="history">History</string>
+	<string name="science">Science</string>
+	<string name="nature">Nature</string>
+	<string name="rr">R&amp;R</string>
+	<string name="shopping">Shopping</string>
+	<string name="sports">Sports</string>
+	<string name="unusual">Unusual</string>
+	<string name="family_friendly">Family Friendly</string>
+	<string name="coffee">Coffee</string>
+	<string name="show_me_my_matches">Show Me My Matches</string>
+
+	<!-- main -->
+	<string name="happening_around_me_now">Happening Around Me Now</string>
+	<string name="inbox">Inbox</string>
+	<string name="plan_a_new_trip">Plan A New Trip</string>
+	<string name="view_upcoming_trips">View Upcoming Trips</string>
+	<string name="view_past_trips">View Past Trips</string>
+	<string name="my_local_matches">My Local Matches</string>
+	<string name="update_profile">Update Profile</string>
+	<string name="sign_out">Sign Out</string>
+	<string-array name="navigation_drawer_items">
+		<item>@string/inbox</item>
+		<item>@string/plan_a_new_trip</item>
+		<item>@string/view_upcoming_trips</item>
+		<item>@string/view_past_trips</item>
+		<item>@string/my_local_matches</item>
+    </string-array>
+
+</resources>

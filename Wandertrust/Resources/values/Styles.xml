@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?><resources>
+  <style name="WandertrustTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+  </style>
+
+  <style name="WandertrustTheme" parent="WandertrustTheme.Base">
+  </style>
+
+<!--  <style name="WandertrustTheme.Splash" parent ="WandertrustTheme">
+    <item name="android:windowBackground">@drawable/splash_screen</item>
+  </style>-->
+</resources>

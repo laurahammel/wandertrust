@@ -1,0 +1,12 @@
+/Users/Laura.Hammel/Projects/Wandertrust/Wandertrust/obj/Debug/assemblies/Wandertrust.dll
+/Users/Laura.Hammel/Projects/Wandertrust/Wandertrust/obj/Debug/assemblies/System.dll
+/Users/Laura.Hammel/Projects/Wandertrust/Wandertrust/obj/Debug/assemblies/System.Xml.dll
+/Users/Laura.Hammel/Projects/Wandertrust/Wandertrust/obj/Debug/assemblies/Mono.Android.dll
+/Users/Laura.Hammel/Projects/Wandertrust/Wandertrust/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/Laura.Hammel/Projects/Wandertrust/Wandertrust/obj/Debug/assemblies/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/Laura.Hammel/Projects/Wandertrust/Wandertrust/obj/Debug/assemblies/Xamarin.Android.Support.v13.dll
+/Users/Laura.Hammel/Projects/Wandertrust/Wandertrust/obj/Debug/assemblies/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/Laura.Hammel/Projects/Wandertrust/Wandertrust/obj/Debug/assemblies/System.Core.dll
+/Users/Laura.Hammel/Projects/Wandertrust/Wandertrust/obj/Debug/assemblies/mscorlib.dll
+/Users/Laura.Hammel/Projects/Wandertrust/Wandertrust/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/Laura.Hammel/Projects/Wandertrust/Wandertrust/obj/Debug/assemblies/System.ServiceModel.Internals.dll
